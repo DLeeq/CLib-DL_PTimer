@@ -1,2 +1,2 @@
-# CLib-DL_PTimer
+# DL_PTimer
 Description in development
