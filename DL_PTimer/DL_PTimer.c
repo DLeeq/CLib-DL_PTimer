@@ -36,6 +36,7 @@ void DL_pTimStart(DL_PTimer* ptimer, const char* format, ...)  //Форматн�
 				break;
 			default :
 				ptimer->time_counter = 0;
+				ptimer->count_enable = 0;
 				return;
 		}
 	}
